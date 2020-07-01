@@ -1,0 +1,15 @@
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.deps.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.runtimeconfig.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.runtimeconfig.dev.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Domain.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Domain.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.AssemblyInfo.cs
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.csproj.CopyComplete
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.genruntimeconfig.cache

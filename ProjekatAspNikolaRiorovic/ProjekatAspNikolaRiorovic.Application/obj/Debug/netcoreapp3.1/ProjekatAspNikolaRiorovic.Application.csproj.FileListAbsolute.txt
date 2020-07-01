@@ -1,0 +1,12 @@
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.deps.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Domain.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Domain.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.csprojAssemblyReference.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.AssemblyInfoInputs.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.AssemblyInfo.cs
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.csproj.CopyComplete
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Application\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.csproj.CoreCompileInputs.cache

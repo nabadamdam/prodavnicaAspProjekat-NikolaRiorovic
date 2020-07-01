@@ -1,0 +1,16 @@
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.deps.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.csprojAssemblyReference.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.AssemblyInfoInputs.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.AssemblyInfo.cs
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Domain.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Application.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.EFDataAccess.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Domain.pdb
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.csproj.CopyComplete
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.Implementation\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.Implementation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.deps.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.dll
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.csprojAssemblyReference.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.AssemblyInfo.cs
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.runtimeconfig.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\bin\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.runtimeconfig.dev.json
+C:\Users\Rikii\source\repos\ProjekatAspNikolaRiorovic\ProjekatAspNikolaRiorovic.DataAccess\obj\Debug\netcoreapp3.1\ProjekatAspNikolaRiorovic.DataAccess.genruntimeconfig.cache
