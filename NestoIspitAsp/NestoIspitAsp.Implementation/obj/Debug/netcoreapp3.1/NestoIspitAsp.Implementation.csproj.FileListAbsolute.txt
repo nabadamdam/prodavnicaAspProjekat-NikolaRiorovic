@@ -1,0 +1,15 @@
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.Application.dll
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.DataAccess.dll
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.DataAccess.pdb
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\obj\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.csprojAssemblyReference.cache
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\obj\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.AssemblyInfoInputs.cache
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\obj\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.AssemblyInfo.cs
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.DataAccess.exe
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.deps.json
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.dll
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.pdb
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\bin\Debug\netcoreapp3.1\NestoIspitAsp.Application.pdb
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\obj\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\obj\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.csproj.CopyComplete
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\obj\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.dll
+C:\Users\Rikii\source\repos\NestoIspitAsp\NestoIspitAsp.Implementation\obj\Debug\netcoreapp3.1\NestoIspitAsp.Implementation.pdb
